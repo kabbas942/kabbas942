@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">A passionate Python developer</h3>
 
 - 🌱 I’m currently learning **Web Developement**
  <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
