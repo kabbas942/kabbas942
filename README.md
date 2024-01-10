@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Developement**
 
-- 💬 Ask me about **Hi there, I’m Muhammad Abbas, an adept web developer proficient in HTML, CSS, JavaScript, Bootstrap, and Python programming. With a strong foundation in Django and Flask frameworks, I specialize in building robust web solutions. My expertise extends to MySQL and SQL databases, ensuring optimized and scalable applications. Committed to ongoing growth, I aim to elevate my craft in web development by embracing new technologies and industry best practices.**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **kabbas942@gmail.com**
 
