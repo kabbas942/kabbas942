@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 <h3 align="center">A passionate Python developer</h3>
+<p dir="auto">I'm Muhammad Abbas, an experienced Python developer specializing in crafting refined web applications with seamless functionality. I excel in turning innovative ideas into practical solutions through creative problem-solving.
 
+I'm dedicated to continuous learning, staying updated with evolving skills, tools, and industry trends. Currently, I'm focused on enhancing my proficiency in web development.</p>
 - 🌱 I’m currently learning **Web Developement**
  <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **Python**
